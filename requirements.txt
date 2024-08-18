@@ -1,0 +1,6 @@
+python-dotenv==1.0.1
+python-telegram-bot==21.0.1
+TerraYolo==0.0.33
+PyYAML==6.0.1
+matplotlib==3.8.3
+ipython==8.22.2
